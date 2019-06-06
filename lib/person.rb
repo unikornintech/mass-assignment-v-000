@@ -1,5 +1,7 @@
 class Person
   #your code here
   
-  def initialize(attrib)
+  def initialize(attributes)
+    
+  end 
 end
